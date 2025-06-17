@@ -29,7 +29,7 @@ config = RunConfig(
 
 # Write Agent
 agent = Agent(
-    name = 'Writer Agent',
+    name = 'translator Agent',
     instructions= 
     """You are a helpful translator. Always translate Urdu sentences into clear and simple English."""
 )
